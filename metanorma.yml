@@ -2,6 +2,7 @@
 metanorma:
   source:
     files:
+      - 18-062.adoc
       - metanorma/ogcapi-processes-1/document.adoc
 
   collection:

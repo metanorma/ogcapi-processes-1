@@ -1,39 +1,17 @@
-= OGC API - Processes - Part 1: Core
-:Title: OGC API - Processes - Part 1: Core
-:titletext: OGC API - Processes - Part 1: Core
+= OGC API - Processes - Part 1
 :doctype: standard
 :docsubtype: implementation
-:docnumber: 18-062r3
-:edition: 2.0
+:edition: 1.0
+:language: en
 :status: draft
-:draft: 1.0
-:external-id: http://www.opengis.net/doc/IS/ogcapi-processes-1/2.0
-:lang: en
-:encoding: utf-8
-:toc:
-:toc-placement!:
-:toclevels: 7
-:copyright-year: 2026
-:received-date: 2026-01-01
-:issued-date: 2026-02-17
-:published-date: 2026-01-01
-:fullname: Benjamin Pross
-:fullname_2: Panagiotis (Peter) A. Vretanos
-:keywords: ogcdoc, OGC document, OGC API, Geospatial API, processes, Web Processing Service, WPS, JSON, HTML, geoprocessing, API, OpenAPI, HTML
-:submitting-organizations: 52°North GmbH; Hexagon; CubeWerx Inc.; Ecere Corporation; Terradue Srl; European Space Agency (ESA); Spacebel; Technologies Luqia, Centre de Recherche Informatique de Montréal (CRIM)
-:local-cache-only:
-:data-uri-image:
+:committee: technical
+:docnumber: 18-062
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
 :mn-document-class: ogc
-:mn-output-extensions: xml,html,doc,pdf
-:figure-id: 0
-:table-id: 0
-:req-id: 0
-:rec-id: 0
-:per-id: 0
 
-////
-Make sure to complete each included document
-////
 include::core/sections/clause_0_front_material.adoc[]
 
 include::core/sections/clause_1_scope.adoc[]
