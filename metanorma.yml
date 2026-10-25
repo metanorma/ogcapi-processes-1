@@ -2,12 +2,8 @@
 metanorma:
   source:
     files:
-      - 18-062.adoc
-      - extensions/workflows/21-009.adoc
-      - extensions/deploy_replace_undeploy/standard/20-044.adoc
-      - extensions/job_management/standard/24-051.adoc
-      - extensions/provenance/standard/26-038.adoc
+      - metanorma/ogcapi-processes-1/document.adoc
 
   collection:
-    organization: "OGC"
-    name: "OGC API - Processes"
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - Processes - Part 1 (model-based publication)"
