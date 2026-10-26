@@ -819,10 +819,12 @@
         ]
       },
       "bbox-processes": {
-        "$ref": "#/components/schemas/processes-core-bbox"
+        "$ref": "#/components/schemas/processes-core-bbox",
+        "description": "A bounding box constraint on the area of interest of a process input."
       },
       "execute-workflow": {
-        "$ref": "#/components/schemas/processes-workflows-execute-workflows"
+        "$ref": "#/components/schemas/processes-workflows-execute-workflows",
+        "description": "An execute request for a process deployed as a workflow, combining the inputs of the nested processes."
       },
       "metadataRoleProfiles": {
         "description": "Mapping of metadata `role` (IRI, URN or Safe CURIE) to the profile(s) (`href` IRI, URN or Safe CURIE)\nthat a `rel: \"https://www.opengis.net/def/profile\"` metadata link must provide for that role.",
