@@ -808,7 +808,8 @@
         "$ref": "#/components/schemas/cwl-CWLExpression"
       },
       "CQL2": {
-        "$ref": "#/components/schemas/cql2-cql2"
+        "$ref": "#/components/schemas/cql2-cql2",
+        "description": "A CQL2 filter expression, constraining the inputs of a process per the OGC CQL2 standard."
       },
       "processes-list": {
         "type": "string",
