@@ -1,3 +1,5 @@
+description: >-
+  The state of the job execution: accepted, running, successful, failed or dismissed.
 type: string
 nullable: false
 enum:

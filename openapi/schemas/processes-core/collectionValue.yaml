@@ -1,3 +1,5 @@
+description: >-
+  A result value hosted as a collection.
 allOf:
   - $ref: format.yaml
   - type: object

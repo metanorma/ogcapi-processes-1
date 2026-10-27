@@ -1,2 +1,4 @@
+description: >-
+  A binary input or output value, encoded per its declared media type.
 type: string
 # contentEncoding: base64

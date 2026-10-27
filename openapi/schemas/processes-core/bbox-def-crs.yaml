@@ -1,3 +1,5 @@
+description: >-
+  The coordinate reference system of a bounding box definition.
 anyOf:
   - type: string
     format: uri

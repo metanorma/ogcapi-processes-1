@@ -1,3 +1,5 @@
+description: >-
+  A theme with which the resource is classified: a concept scheme and one or more of its concepts.
 ---
 type: object
 required:

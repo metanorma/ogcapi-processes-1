@@ -1,3 +1,5 @@
+description: >-
+  The type of processing entity that executes a deployed process.
 anyOf:
   - $ref: "apis.yaml"
   - type: string

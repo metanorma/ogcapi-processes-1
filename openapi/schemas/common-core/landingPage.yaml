@@ -1,3 +1,5 @@
+description: >-
+  The landing page of the API: links to the conformance declaration, collections and processes.
 type: object
 required:
   - links

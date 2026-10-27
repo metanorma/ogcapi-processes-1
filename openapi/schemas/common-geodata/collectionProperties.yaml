@@ -1,3 +1,5 @@
+description: >-
+  The properties of a collection: identifier, title, description, extent and links.
 type: object
 required:
   - id

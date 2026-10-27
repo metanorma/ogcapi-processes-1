@@ -1,3 +1,5 @@
+description: >-
+  A schema together with the occurrences of the input in the process.
 type: object
 required:
   - schema

@@ -1,3 +1,5 @@
+description: >-
+  The permitted values of an input, as an enumeration, range or schema.
 anyOf:
   - $ref: "inlineOrRefValue.yaml"
   - type: array

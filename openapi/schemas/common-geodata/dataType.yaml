@@ -1,3 +1,5 @@
+description: >-
+  A data type declaration for an input or output value.
 # This list may be extended (e.g. point clouds, meshes)
 anyOf:
   - type: string

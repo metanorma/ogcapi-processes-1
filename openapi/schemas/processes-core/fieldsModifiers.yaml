@@ -1,3 +1,5 @@
+description: >-
+  Modifiers restricting the fields (properties) of an input or output object.
 type: object
 properties:
   filter:

@@ -1,3 +1,5 @@
+description: >-
+  The base link properties extended with deployment-specific attributes.
 type: object
 properties:
   method:

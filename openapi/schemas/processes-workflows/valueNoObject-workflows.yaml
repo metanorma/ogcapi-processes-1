@@ -1,3 +1,5 @@
+description: >-
+  A literal or array value of a workflow input, excluding object values.
 anyOf:
   - type: string
   - type: number

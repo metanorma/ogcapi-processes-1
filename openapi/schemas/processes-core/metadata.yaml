@@ -1,3 +1,6 @@
+description: >-
+  Additional metadata of a process, input or output: roles with typed values or external
+  references.
 oneOf:
   - allOf:
     - $ref: "link.yaml"

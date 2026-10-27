@@ -1,3 +1,5 @@
+description: >-
+  An execute request: the inputs, outputs and execution options for running a process.
 allOf:
   - type: object
     properties:

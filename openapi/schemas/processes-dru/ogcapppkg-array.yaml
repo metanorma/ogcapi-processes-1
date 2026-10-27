@@ -1,3 +1,5 @@
+description: >-
+  A list of OGC App-Pkg deployment definitions.
 type: array
 items:
   oneOf:

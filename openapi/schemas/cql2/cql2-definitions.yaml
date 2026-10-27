@@ -1,3 +1,5 @@
+description: >-
+  The CQL2 schema definitions used by filter expressions.
 definitions:
   cql2expression:
   andOrExpression:

@@ -1,3 +1,6 @@
+description: >-
+  A summary of a process that can be executed by this API, including its machine-readable and
+  human-readable metadata.
 allOf:
   - $ref: "descriptionType.yaml"
   - type: object

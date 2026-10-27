@@ -1,3 +1,5 @@
+description: >-
+  A hyperlink with its relation type, per the OGC API link conventions.
 type: object
 required:
   - href

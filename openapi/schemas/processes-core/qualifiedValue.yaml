@@ -1,3 +1,5 @@
+description: >-
+  A value together with the format it is encoded in, used where multiple formats are supported.
 allOf:
   - $ref: "format.yaml"
   - $ref: "dataClasses.yaml"

@@ -1,3 +1,5 @@
+description: >-
+  An input whose value must be one of an enumerated set of literals.
 type: object
 required: [ type, enum ]
 properties:

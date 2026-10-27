@@ -1,3 +1,5 @@
+description: >-
+  A permitted value of an input with an optional human-readable label.
 anyOf:
   - $ref: "valueNoObject.yaml"
   - type: object

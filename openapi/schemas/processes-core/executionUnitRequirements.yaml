@@ -1,3 +1,5 @@
+description: >-
+  The requirements an execution unit places on the execution environment.
 type: object
 properties:
   executionUnitRequirements:

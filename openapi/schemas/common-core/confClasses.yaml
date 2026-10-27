@@ -1,3 +1,5 @@
+description: >-
+  The conformance classes the deployment implements, per the OGC API conformance declaration.
 type: object
 required:
   - conformsTo

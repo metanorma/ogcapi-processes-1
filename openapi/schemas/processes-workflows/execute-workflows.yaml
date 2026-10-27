@@ -1,3 +1,6 @@
+description: >-
+  An execute request for a process deployed as a workflow, combining the inputs of the nested
+  processes.
 allOf:
   - type: object
     properties:

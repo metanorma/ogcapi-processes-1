@@ -1,3 +1,5 @@
+description: >-
+  A collection description with an unknown, unlimited or multi-dimensional axis extent.
 allOf:
   - $ref: 'collectionProperties.yaml'
   - type: object

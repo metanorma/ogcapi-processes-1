@@ -1,3 +1,5 @@
+description: >-
+  A description of an output of a process, including its schema and metadata.
 allOf:
   - $ref: "descriptionType.yaml"
   - $ref: "dataClasses.yaml"

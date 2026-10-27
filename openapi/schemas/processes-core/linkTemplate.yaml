@@ -1,3 +1,5 @@
+description: >-
+  A templated link with URI variables for constructing resource URIs.
 allOf:
   - $ref: 'linkBase.yaml'
   - $ref: 'linkBaseExtended.yaml'

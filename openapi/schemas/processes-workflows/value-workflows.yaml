@@ -1,3 +1,5 @@
+description: >-
+  A permitted value of a workflow input with an optional human-readable label.
 oneOf:
   - $ref: "valueNoObject-workflows.yaml"
   - type: object

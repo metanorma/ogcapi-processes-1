@@ -1,3 +1,5 @@
+description: >-
+  A container-image executable unit of a process deployment.
 type: object
 required: image
 properties:

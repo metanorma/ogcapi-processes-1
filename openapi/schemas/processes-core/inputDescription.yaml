@@ -1,3 +1,6 @@
+description: >-
+  A description of an input of a process, including its schema, metadata and the supported input
+  values.
 allOf:
   - $ref: "descriptionType.yaml"
   - $ref: "dataClasses.yaml"

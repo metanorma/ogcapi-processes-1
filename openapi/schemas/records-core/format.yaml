@@ -1,3 +1,5 @@
+description: >-
+  The format of an input or output value: media type, encoding and schema.
 ---
 type: object
 anyOf:

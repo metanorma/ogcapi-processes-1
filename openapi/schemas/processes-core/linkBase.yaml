@@ -1,3 +1,5 @@
+description: >-
+  The base properties common to all links: href, rel, type, title and hreflang.
 type: object
 required:
   - rel

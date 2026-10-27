@@ -1,3 +1,5 @@
+description: >-
+  The base type of an executable unit of a process deployment.
 oneOf:
   - $ref: "../common-core/link.yaml"
   - allOf:

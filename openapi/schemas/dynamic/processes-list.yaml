@@ -1,3 +1,5 @@
+description: >-
+  A list of the processes available on this API.
 # This can be implemented as a dynamic enumeration type
 # returning all processes available on the server:
 $ref: ../../api/processes-list.json

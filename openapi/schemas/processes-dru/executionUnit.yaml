@@ -1,3 +1,6 @@
+description: >-
+  The executable unit of a process deployment: an OGC App-Pkg, a CWL definition, a Docker image or
+  a reference.
 oneOf:
   - $ref: "executionUnitBase.yaml"
   - type: array

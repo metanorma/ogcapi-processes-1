@@ -1,3 +1,6 @@
+description: >-
+  The status of an execution job, including its current state (accepted, running, successful,
+  failed or dismissed) and, once available, the location of the results.
 allOf:
   - $ref: "descriptionType.yaml"
   - type: object

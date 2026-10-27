@@ -1,3 +1,5 @@
+description: >-
+  The permitted values of a workflow input, as an enumeration, range or schema.
 oneOf:
   - $ref: "inlineOrRefValue-workflows.yaml"
   - type: array

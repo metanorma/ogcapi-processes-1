@@ -1,3 +1,5 @@
+description: >-
+  The data access APIs through which the outputs of a job can be retrieved.
 type: object
 properties:
   dataAccessAPIs:

@@ -1,3 +1,5 @@
+description: >-
+  The coordinate reference systems supported for spatial inputs and outputs.
 title: CRS
 oneOf:
 - description: Simplification of the object into a url if the other properties are not present

@@ -1,3 +1,6 @@
+description: >-
+  The job control options supported by this API: asynchronous execution, synchronous execution
+  and/or dismiss of running jobs.
 type: string
 enum:
   - sync-execute

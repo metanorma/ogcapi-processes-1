@@ -1,3 +1,5 @@
+description: >-
+  An openEO process graph embedded as a process definition.
 type: object
 additionalProperties:
   type: object

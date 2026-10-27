@@ -1,3 +1,5 @@
+description: >-
+  An additional parameter of a process, beyond its declared inputs and outputs.
 type: object
 required:
   - name

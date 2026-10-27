@@ -1,3 +1,5 @@
+description: >-
+  A list of jobs created by this API for the current user.
 type: object
 required:
   - jobs

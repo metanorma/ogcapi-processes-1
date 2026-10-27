@@ -1,3 +1,5 @@
+description: >-
+  A list of the processes available on this API together with their summaries.
 type: object
 required:
   - processes

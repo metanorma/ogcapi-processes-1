@@ -1,3 +1,5 @@
+description: >-
+  The base properties of an execute request: inputs, outputs and execution options.
 type: object
 properties:
   inputs:

@@ -1,3 +1,6 @@
+description: >-
+  Indicates whether the input value of a workflow is static (identical for every nested execution)
+  or dynamic.
 allOf:
   - $ref: ../processes-core/processSummary.yaml
   - type: object

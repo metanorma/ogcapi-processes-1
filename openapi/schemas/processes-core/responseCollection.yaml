@@ -1,3 +1,5 @@
+description: >-
+  The collection returned in the response of a query.
 type: object
 properties:
   response:

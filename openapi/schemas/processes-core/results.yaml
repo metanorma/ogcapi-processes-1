@@ -1,3 +1,6 @@
+description: >-
+  The outputs of a successfully completed job execution. Each output is identified by its
+  identifier in the process description.
 type: object
 additionalProperties:
   $ref: "values.yaml"

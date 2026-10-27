@@ -1,3 +1,5 @@
+description: >-
+  Selects the outputs of a nested workflow process to include in the results.
 type: object
 properties:
   format:

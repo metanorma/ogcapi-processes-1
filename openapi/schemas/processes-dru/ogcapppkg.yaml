@@ -1,3 +1,6 @@
+description: >-
+  An OGC API - Processes application package (OGC App-Pkg): the deployment description of a
+  process, referencing or embedding the executable artifacts.
 type: object
 required:
   - executionUnit

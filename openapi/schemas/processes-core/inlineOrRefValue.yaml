@@ -1,3 +1,6 @@
+description: >-
+  Either an inline literal, object or array value, or a reference to a remote value that is
+  fetched at execution time.
 oneOf:
   - $ref: "valueNoObject.yaml"
   - $ref: "qualifiedValue.yaml"

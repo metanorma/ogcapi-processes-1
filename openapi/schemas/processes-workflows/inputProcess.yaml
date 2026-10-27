@@ -1,3 +1,5 @@
+description: >-
+  A nested process whose outputs feed a workflow step.
 allOf:
   - type: object
     required:

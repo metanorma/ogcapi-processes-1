@@ -1,3 +1,5 @@
+description: >-
+  A description of a collection that hosts the results of a job.
 allOf:
   - $ref: 'collectionProperties.yaml'
   - type: object

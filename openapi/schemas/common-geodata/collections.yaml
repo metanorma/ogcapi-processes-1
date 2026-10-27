@@ -1,3 +1,5 @@
+description: >-
+  A list of the collections available on this API.
 type: object
 required:
   - links

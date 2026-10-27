@@ -1,3 +1,5 @@
+description: >-
+  A CQL2 filter expression, constraining process inputs per the OGC CQL2 standard.
 #$schema: 'https://json-schema.org/draft/2020-12/schema'
 #$dynamicAnchor: cql2expression
 oneOf:

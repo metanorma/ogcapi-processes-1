@@ -1,3 +1,5 @@
+description: >-
+  A value with its encoding, used where multiple formats are supported in a workflow.
 allOf:
   - $ref: "../processes-core/format.yaml"
   - $ref: "../processes-core/fieldsModifiers.yaml"

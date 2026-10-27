@@ -1,3 +1,5 @@
+description: >-
+  An input description with a schema that constrains the permitted values of the input.
 allOf:
   - type: object
     required:

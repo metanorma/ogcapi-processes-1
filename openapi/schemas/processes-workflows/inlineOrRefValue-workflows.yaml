@@ -1,3 +1,6 @@
+description: >-
+  Either an inline literal, object or array value, or a reference to a remote value, for workflow
+  inputs and outputs.
 oneOf:
   - $ref: "valueNoObject-workflows.yaml"
   - $ref: "qualifiedValue-workflows.yaml"

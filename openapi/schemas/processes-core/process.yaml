@@ -1,3 +1,7 @@
+description: >-
+  A process that can be executed by this API. The process description includes the
+  machine-readable and human-readable metadata of the process, in particular its inputs and
+  outputs.
 allOf:
   - $ref: "processSummary.yaml"
   - type: object

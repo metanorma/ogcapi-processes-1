@@ -1,3 +1,6 @@
+description: >-
+  Base type for process, input and output descriptions: identifier, title, description, metadata
+  and additional classification information.
 type: object
 properties:
   title:
