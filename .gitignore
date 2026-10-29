@@ -50,3 +50,4 @@ package.json
 package-lock.json
 **/__pycache__/
 *.py[cod]
+Gemfile.lock
